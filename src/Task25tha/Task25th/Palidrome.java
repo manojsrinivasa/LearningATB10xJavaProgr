@@ -1,4 +1,4 @@
-package Task25th1.Task25th;
+package Task25tha.Task25th;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Task25th1.Task25th;
+package Task25th.Task25th;
 
 public class FizzProgram {
     public static void main(String[] args) {
